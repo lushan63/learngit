@@ -5,4 +5,5 @@ git tracks changes of files.
 modify something.
 test push code.
 create a new branch.
-create a new simple b.
+create a new is quick and simple branch.
+
